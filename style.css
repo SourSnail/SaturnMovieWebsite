@@ -274,6 +274,7 @@ body{
 .movie-list-item-button{
     padding: 5px;
     background-color: blue;
+    font-weight: bold;
     color:white;
     border-radius: 5px;
     outline:0;
